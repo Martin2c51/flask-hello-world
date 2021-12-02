@@ -1,5 +1,3 @@
 Flask
 Gunicorn
-fastai
-torch
-flask_cors
+
